@@ -1,6 +1,7 @@
 # viridis_white: a modified viridis colormap
 
 [![View viridis_white: a modified viridis colormap on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://se.mathworks.com/matlabcentral/fileexchange/93725-viridis_white-a-modified-viridis-colormap)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4915770.svg)](https://doi.org/10.5281/zenodo.4915770)
 
 
 ## Summary
