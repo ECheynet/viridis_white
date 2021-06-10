@@ -25,5 +25,5 @@ Any comment, question or suggestion is welcome
 
 ## Example
 
-<img src="illustration.png" alt="Mean wind speed at 10 m above the surface in Northern Europe" width="700"/>
+<img src="illustration.png" alt="Mean wind speed at 10 m above the surface in Northern Europe" width="600"/>
 
