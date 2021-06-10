@@ -18,12 +18,13 @@ The present submission contains
 
 Any comment, question or suggestion is welcome
 
+## Example
+
+<img src="illustration.png" alt="Mean wind speed at 10 m above the surface in Northern Europe" width="600"/>
+
 ## References
 
 [1] Ander Biguri (2021). Perceptually uniform colormaps (https://www.mathworks.com/matlabcentral/fileexchange/51986-perceptually-uniform-colormaps), MATLAB Central File Exchange. Retrieved June 9, 2021. 
 
 
-## Example
-
-<img src="illustration.png" alt="Mean wind speed at 10 m above the surface in Northern Europe" width="600"/>
 
