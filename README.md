@@ -7,7 +7,8 @@
 ## Summary
 The viridis_white colormap is a modification of the Viridis colormap that was introduced in Matplotlib in 2015. In viridis_white, the yellowish sequence is replaced by a white sequence. It allows some additional flexibility when it comes to using a colormap on a white background. 
 
-Note: The viridis_white colormap may exist for Matplotlib too. I saw it some years ago but could not find the webpage anymore. If you find it, please notify me so I can add it in the acknowledgments.
+The viridis_white colormap is based on the following Python implementation: https://docs.obspy.org/packages/autogen/obspy.imaging.cm.html
+
 
 ## Content
 
